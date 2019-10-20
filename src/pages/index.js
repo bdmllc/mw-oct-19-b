@@ -8,7 +8,7 @@ export default () => (
   <Layout>
     <SimpleHero>
       <Banner
-        title="continue exploring"
+        title="continue foshizzle"
         info="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, nisi!"
       >
         <Link to="/tours" className="btn-white">
